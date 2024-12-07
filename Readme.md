@@ -1,0 +1,2 @@
+# Kubernetes End to End Deployment 						  
+Deployed a game application on Amazon EKS by creating a cluster with Fargate and utilizing replicas in deployment to ensure auto-healing and ease of auto-scaling. Configured an Application Load Balancer (ALB) for traffic distribution and exposed the application to the outside world through an external IP for public access.
